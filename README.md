@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Привет, я Лёха 👋</h1>
 
-<!--
-**1exanOK/1exanOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 DevOps trainee @ SkillFactory <br>
+  🧠 Увлекаюсь Linux, автоматизацией, CI/CD и безопасностью <br>
+  📍 Россия | 💼 Ищу стажировку или удалённую работу
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Обо мне
+
+- 🎓 Учусь на DevOps-инженера в SkillFactory  
+- 🖥️ Работаю системным администратором  
+- 🛠️ Люблю автоматизировать рутину, работать с Linux и изучать инфраструктуру  
+- 📚 Учусь работать с Docker, Ansible, GitHub Actions, Terraform и Kubernetes  
+- ⚡ Интересуюсь безопасностью и инструментами для пентестинга
+
+---
+
+### 🧰 Мой стек
+
+![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-000?style=flat&logo=ansible)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+---
+
+### 📌 Закреплённые репозитории (будут)
+
+- 📦 Ansible плейбук для установки NGINX
+- 🐳 Docker Compose для локального dev-сервера
+- ⚙️ GitHub Actions pipeline для CI/CD
+
+---
+
+### 📫 Связаться со мной
+
+- Telegram: [@your_tg_nick](@mute_tex)
+
+---
+
+_Профиль в разработке, добавляю проекты по мере учёбы 🤖_
