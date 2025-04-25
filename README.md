@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/-Yandex%20Cloud-FFCC00?style=flat&logo=yandex&logoColor=black)
 
 ---
 
