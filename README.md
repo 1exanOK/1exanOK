@@ -23,7 +23,6 @@
 ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat&logo=gnubash)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-000?style=flat&logo=ansible)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
