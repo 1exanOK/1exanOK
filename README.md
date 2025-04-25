@@ -40,7 +40,7 @@
 
 ### 📫 Связаться со мной
 
-- Telegram: [@your_tg_nick](@mute_tex)
+- Telegram: [Леха](@mute_tex)
 
 ---
 
